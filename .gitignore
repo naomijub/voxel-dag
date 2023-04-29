@@ -1,0 +1,16 @@
+# Unwanted files
+target/
+.DS_Store
+thumbs.db
+*~
+*.rs.bk
+*.swp
+*.hdag
+*.spv
+*.log
+*.so
+*.dll
+*.exe
+.local
+.captures
+.vscode

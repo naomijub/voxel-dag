@@ -1,0 +1,4 @@
+SparseVoxelsSequential(
+    nodes: [0b01101001, 5, 7, 7, 7, 0x0, 0xffffffff, 0xffffffff, 0xffffffff],
+    levels: 3
+)

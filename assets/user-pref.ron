@@ -1,0 +1,34 @@
+UserPreferences(
+    vram: 100_000_000, // Very little, but great for old HW
+    // vram: 1_000_000_000, // Loads any 16k SVDAG
+    // vram: 2_500_000_000, // Just about enough for epiccitadel128k
+
+    // width: 2560,
+    // height: 1440,
+    // width: 1920,
+    // height: 1080,
+    width: 960,
+    height: 540,
+
+    fullscreen: false,
+    fov: 0.2,
+    aperture: 0.0004,
+    benchmark: true,
+
+    start_pos_eye: (0, 0, -4096),
+    mov_sens_x: 1000,
+    mov_sens_z: 1000,
+    look_sens_y: 0.5,
+    look_sens_x: 0.5,
+    lock_to_xz: true,
+    
+    deadzone: 0.18,
+    load_renderdoc: true,
+
+    demo: 0, // lantern1k
+    // demo: 1, // generated sphere
+    // demo: 2, // epiccitadel128k
+    // demo: 3, // sponza16k
+    // demo: 4, // sanmiguel16k
+    // demo: 5, // stress-test
+)
